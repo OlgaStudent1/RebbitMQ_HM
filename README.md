@@ -1,5 +1,5 @@
 # RebbitMQ_HM
-Домашнее задание к занятию «Очереди RabbitMQ»
+Домашнее задание к занятию «Очереди RabbitMQ» Dunaevskaya Olga
 
  # Задание 1
  web-интерфейс: ![alt text](https://github.com/OlgaStudent1/RebbitMQ_HM/blob/main/img/TaskrabbitMQ_1.png)
